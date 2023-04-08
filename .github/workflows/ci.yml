@@ -48,4 +48,4 @@ jobs:
         uses: coactions/setup-xvfb@v1.0.1
         with:
           #Ideally, the test folder should be renamed to spec to fall in-line with other conventions
-          run: pulsar --test test
+          run: pulsar --test spec
