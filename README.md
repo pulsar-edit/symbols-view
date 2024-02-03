@@ -1,3 +1,5 @@
+# This Repo is now archived under Pulsar as it's been bundled into the editor [#829](https://github.com/pulsar-edit/pulsar/pull/829)
+
 # Symbols View package
 
 Display the list of functions/methods in the editor.
